@@ -1,4 +1,4 @@
-```markdown
+
 # Customer Churn Prediction Flask App
 
 This Flask application is designed to predict customer churn based on historical customer data using a pre-trained MLP (Multi-Layer Perceptron) model.
@@ -72,5 +72,4 @@ This setup is intended for testing and development purposes. In a production env
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
